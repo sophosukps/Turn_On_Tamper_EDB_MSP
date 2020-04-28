@@ -1,2 +1,2 @@
 # Turn_On_Tamper_EDB_MSP
-Please follow the PDF Guide
+This will turned on Tamper Protection for all machines in every sub estate. Please follow the PDF Guide
